@@ -4,7 +4,7 @@
 
 | Version | Date | Author | Description |
 | :---: | :---: | :---: | :---: |
-| v1.0 | June 23, 2026 | [Your Name] | Initial test suite for core web functionalities |
+| v1.0 | June 23, 2026 | [Brandon Cabrera] | Initial test suite for core web functionalities |
 
 ## 2. Test Cases
 
